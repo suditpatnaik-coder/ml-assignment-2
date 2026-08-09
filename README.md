@@ -20,7 +20,7 @@ The assignment requires at least 12 features and 500 instances; this implementat
 
 ## c. GitHub Repository Link
 
-**GitHub Repository:** `REPLACE_WITH_YOUR_GITHUB_REPOSITORY_LINK`
+**GitHub Repository:** https://github.com/suditpatnaik-coder/ml-assignment-2
 
 ## Live Streamlit App Link
 
