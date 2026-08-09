@@ -24,7 +24,7 @@ The assignment requires at least 12 features and 500 instances; this implementat
 
 ## Live Streamlit App Link
 
-**Streamlit App:** `REPLACE_WITH_YOUR_STREAMLIT_APP_LINK`
+**Streamlit App:** https://classification-model-compare-sudit.streamlit.app/
 
 ## d. Models used and comparison table
 
